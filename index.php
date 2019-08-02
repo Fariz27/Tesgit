@@ -15,7 +15,7 @@ if(isset($_SESSION['akun'])){
             <div  class="loginbox">
                 <div>
                 <img src="assets/image/logo-ts.png" width="100vw">
-                <h2>TELKOM SCHOOL</h2>
+                <h2>TELKOM SCHOOL MALANG</h2>
                 <h3>INVENTARIS</h3>
                 </div>
                 <div>
